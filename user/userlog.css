@@ -1,0 +1,25 @@
+body {
+  background-image: url("wallpaperflare.com_wallpaper.jpg");
+  background-size: 2000px 1000px;
+  background-repeat: no-repeat;
+}
+.cont {
+  margin-bottom: 300px;
+  background-color: rgb(247, 245, 244);
+  height: 320px;
+  width: 470px;
+
+  opacity: 0.5;
+  margin-left: 580px;
+  margin-top: 220px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 3%;
+}
+.wel {
+  margin-left: 25px;
+}
+.note {
+  margin-left: 49px;
+  font-weight: bolder;
+}

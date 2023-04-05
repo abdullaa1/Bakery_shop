@@ -1,0 +1,62 @@
+* {
+  margin-top: 0px;
+  margin-bottom: 0 px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 0 0 0 0 px;
+  background-color: rgb(204, 101, 135);
+}
+h3 {
+  background-color: rgb(49, 96, 159);
+  border-radius: 2ch;
+  width: 340px;
+  padding-left: 30px;
+  margin-left: 700px;
+  margin-top: 150px;
+  height: 60px;
+  font-size: xx-large;
+  color: white;
+}
+.formcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(49, 96, 159);
+  width: 800px;
+  margin-left: 500px;
+  border-radius: 10ch;
+}
+.formcontainer > div {
+  margin-top: 30px;
+}
+
+.food {
+  background-color: rgb(49, 96, 159);
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  height: 300px;
+  justify-content: space-evenly;
+}
+.food1 {
+  background-image: url("BREAD-ADDICTION-73-300x300.jpg");
+  width: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.food2 {
+  background-image: url("download.jpg");
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food3 {
+  background-image: url("istockphoto-500445307-1024x1024.jpg");
+  width: 400px;
+  background-size: contain;
+}
+.food4 {
+  background-image: url("Korb_mit_Brötchen.JPG");
+  width: 200px;
+  background-size: cover;
+}
